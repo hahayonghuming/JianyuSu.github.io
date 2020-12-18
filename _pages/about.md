@@ -14,4 +14,6 @@ redirect_from:
 # Contact Info
 * Email: js9wv@virginia.edu
 * Cell Phone: 434-284-0324
-* Address: 2010 Treetop Drive, Apt 204, Charlottesville, VA 22903
+* <address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  </address>
