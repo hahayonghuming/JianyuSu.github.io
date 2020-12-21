@@ -11,20 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Engineering, Beijing Institute of Technology, 2015
+* M.E. in Systems Engineering, Univerisity of Virginia, 2016
+* Ph.D in Systems Engineering, University of Virginia, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Science Intern (Digital Twins Project)
+  * Toyota InfoTech Labs, Mountain View, CA
+  * Propose and conduct research in vehicle trajectory prediction
+  * Communicate and work with the patent office to file patent applications
+  * Supervisor: Dr. Kyungtae Han
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2017-present: Research Assistant
+  * Professor Beling's lab
+  * Leading the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center.
+  * Collaborating with researchers from 
   * Supervisor: Professor Hub
   
 Skills
