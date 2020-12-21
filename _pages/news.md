@@ -14,3 +14,4 @@ author_profile: true
 * (May 2020) I sucessfully defend my Ph.D. dissertation proposal.
 * (May 2020) Our [joint paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN) with Toyota InfoTech Labs is accepted by <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i> (<b>ITSC 2020</b>).
 * (Nov 2019) I file a patent "SYSTEMS AND METHODS FOR PROVIDING DRIVING RECOMMENDATIONS", as the first inventor, with other principle researchers at Toyota InfoTech Labs.
+* (May 2019) I start as a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Digital Twins project.
