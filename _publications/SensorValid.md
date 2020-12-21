@@ -3,7 +3,7 @@ title: "Is my sensor sleeping, hibernating, or broken? A data-driven monitoring 
 collection: publications
 permalink: /publications/SensorValid
 venue: "The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2020)"
-date: 2020-11-19
+date: 2020-11-18
 citation: Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling. <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.'
 ---
 
