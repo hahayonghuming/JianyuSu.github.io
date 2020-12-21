@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/SensorValid
 venue: "The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2020)"
 date: 2020-11-19
-citation: Alan Wang,<b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling. <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.'
+citation: Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling. <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.'
 ---
 
 [Download paper here](https://dl.acm.org/doi/abs/10.1145/3408308.3427625)
