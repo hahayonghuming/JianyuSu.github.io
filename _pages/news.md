@@ -15,4 +15,5 @@ author_profile: true
 * (May 2020) My [research paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN) with Toyota InfoTech Labs is accepted by <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i> (<b>ITSC 2020</b>).
 * (Jan 2020) Our [joint work](https://hahayonghuming.github.io/JianyuSu.github.io/publications/Standby) with Professor Campbell's lab is accepted by <i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i> (<b>IoTDI</b>).
 * (Nov 2019) I file a patent "SYSTEMS AND METHODS FOR PROVIDING DRIVING RECOMMENDATIONS", as the first inventor, with other principle researchers at Toyota InfoTech Labs.
+* (Sep 2019) My proposal to apply multi-agent reinforcement learning algorithms to problems in manufacturing is supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center
 * (May 2019) I start as a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Digital Twins project.
