@@ -17,3 +17,8 @@ author_profile: true
 <b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> <br> 
 Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling.
 <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.
+
+<br>
+<b>[The Standby Energy of Smart Devices: Problems, Progress, & Potential](https://hahayonghuming.github.io/JianyuSu.github.io/publications/Standby)</b> <br> 
+Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell. 
+<i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
