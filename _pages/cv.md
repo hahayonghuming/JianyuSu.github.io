@@ -23,7 +23,7 @@ Work experience
 ======
 * Summer 2019: Research Scientist Intern (Digital Twins Project)
   * Toyota InfoTech Labs, Mountain View, CA
-  * Propose and conduct research in vehicle trajectory prediction
+  * Propose and conduct research in automated driving for connected vehicles
   * Communicate and work with the patent office to file patent applications
   * Supervisor: Dr. Kyungtae Han
 
