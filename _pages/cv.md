@@ -25,37 +25,43 @@ Work experience
 
 * 2017-present: Research Assistant
   * Professor Beling's lab
-  * Leading the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center.
-  * Collaborating with researchers from 
+  * Leading the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center
+  * Collaborating with researchers from Civial Engineering, Mechanical Engineering, and Computer Engineering on Cyber-Physical Systems research
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Pytorch, TensorFlow.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<br><b>[Value-Decomposition Multi-Agent Actor-Critics](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC)</b> 
+</br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. <i>The 35th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
+
+<br><b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b></br> 
+<b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
+<i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
+
+<br><b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> </br> 
+Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling.
+<i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.
+
+<br><b>[The Standby Energy of Smart Devices: Problems, Progress, & Potential](https://hahayonghuming.github.io/JianyuSu.github.io/publications/Standby)</b> </br> 
+Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell. 
+<i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
+
+Patents
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<b> Su, Jianyu</b>, Kyungtae Han, Rui Guo and Roger Melen. SYSTEMS AND METHODS FOR PROVIDING DRIVING RECOMMENDATIONS. US Patent <i>16/689,255</i>, filed Nov 20, 2019.
+
+Arsalan Heydarian, Brad J. Campbell, Peter Beling, Alan Wang and <b>Jianyu Su</b>. DATA-DRIVING MONITORING SYSTEM FOR ENERGY HARVESTING SENSORS AND RELATED METHODS THEREOF. U.S. Provisional Patent <i>63/107,204</i>, filed on October 29, 2020
+
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  I have been a teaching assitant for multiple courses
+  * Graduate-level: Data Mining
+  * Undergraduate-level: Risk Analysis, Data and Information Engineering, and Deterministic Decision Models
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
