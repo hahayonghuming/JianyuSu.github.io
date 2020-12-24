@@ -52,9 +52,9 @@ Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell.
 
 Patents
 ======
-<b> Su, Jianyu</b>, Kyungtae Han, Rui Guo and Roger Melen. SYSTEMS AND METHODS FOR PROVIDING DRIVING RECOMMENDATIONS. US Patent <i>16/689,255</i>, filed Nov 20, 2019.
+<b> Su, Jianyu</b>, Kyungtae Han, Rui Guo and Roger Melen. Systems and Methods for Driving Recommendations. US Patent <i>16/689,255</i>, filed Nov 20, 2019.
 
-Arsalan Heydarian, Brad J. Campbell, Peter Beling, Alan Wang and <b>Jianyu Su</b>. DATA-DRIVING MONITORING SYSTEM FOR ENERGY HARVESTING SENSORS AND RELATED METHODS THEREOF. U.S. Provisional Patent <i>63/107,204</i>, filed on October 29, 2020
+Arsalan Heydarian, Brad J. Campbell, Peter Beling, Alan Wang and <b>Jianyu Su</b>. Data-Driving Monitoring System for Energy Harvesting Sensors and Related Methods Thereof. U.S. Provisional Patent <i>63/107,204</i>, filed on October 29, 2020.
 
 
   
