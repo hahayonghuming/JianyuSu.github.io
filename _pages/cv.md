@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Summary
 ======
-Passionate about Machine Learning and its applications. Experienced in computer vision, natural language processing and reinforcement learning. Actively involved in writing proposal as well as conducting research. Promote inter-discipline researches with fellow doctoral students from different departments as well as researchers from other institutions.
+Passionate about Machine Learning and its applications. Experienced in computer vision, natural language processing and reinforcement learning. Actively involved in writing proposals as well as conducting research. Promote inter-discipline research with fellow doctoral students from different departments as well as researchers from other institutions.
 
 
 Education
