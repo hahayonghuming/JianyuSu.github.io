@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Summer 2019: Research Science Intern (Digital Twins Project)
+* Summer 2019: Research Scientist Intern (Digital Twins Project)
   * Toyota InfoTech Labs, Mountain View, CA
   * Propose and conduct research in vehicle trajectory prediction
   * Communicate and work with the patent office to file patent applications
