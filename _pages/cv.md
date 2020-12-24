@@ -17,7 +17,7 @@ Education
 ======
 * B.S. in Environmental Engineering, Beijing Institute of Technology, 2015
 * M.E. in Systems Engineering, Univerisity of Virginia, 2016
-* Ph.D in Systems Engineering, University of Virginia, 2021 (expected)
+* Ph.D. in Systems Engineering, University of Virginia, 2021 (expected)
 
 Work experience
 ======
