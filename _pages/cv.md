@@ -29,8 +29,8 @@ Work experience
 
 * 2017-present: Research Assistant
   * Professor Beling's lab
-  * Leading the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center
-  * Collaborating with researchers from Civial Engineering, Mechanical Engineering, and Computer Engineering on Cyber-Physical Systems research
+  * Lead the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center
+  * Collaborate with researchers from Civial Engineering, Mechanical Engineering, and Computer Engineering on Cyber-Physical Systems research
   * Supervisor: Professor [Peter A. Beling](https://facultydirectory.virginia.edu/faculty/pb3a)
   
 Skills
