@@ -16,6 +16,6 @@ redirect_from:
 * Email: js9wv@virginia.edu
 * Cell Phone: 434-284-0324
 * <address>
-  2010 Treetop Drive, Apt 204<br /> Charlottesville, VA 22903<br /> United States
+  Olsson Hall, 151 Engineer's Way,<br /> Charlottesville, VA 22904<br /> United States
   </address>
   
