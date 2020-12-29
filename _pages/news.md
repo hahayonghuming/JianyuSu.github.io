@@ -9,7 +9,7 @@ author_profile: true
 
 * (Nov 2020) [Our paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) is accepted by <i>The 35th AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>) as a regular paper! 
 * (Nov 2020) I will be a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Cooperative Automated Driving project from January 19th.
-* (Nov 2020) My [joint work](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM) with manufacturing expert Jing Huang, a Ph.D. student at UVA, applies [my multi-agent RL algorithm](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) to a real-world manufacturing simulation and is under review for a journal.
+* (Nov 2020) My [joint work](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM) with manufacturing expert Jing Huang, a Ph.D. student at UVA, applies [my multi-agent RL algorithm](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) to a manufacturing simulations and is under review for a journal.
 * (Dec 2020) Our patent entitled “Data-Driven Monitoring System for Energy Harvesting Sensors and Related Methods thereof” is filed. 
 * (Sep 2020) Our [joint work](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid) with Alan Wang, from Professor Heydarian's lab, on sensor validation is accepted by <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i> (<b>BuildSys 2020</b>).
 * (Aug 2020) I featured in an interview, [humans of Link Lab](https://engineering.virginia.edu/humans-link-lab-jianyu-su).
