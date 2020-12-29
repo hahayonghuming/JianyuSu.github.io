@@ -54,6 +54,12 @@ Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A.
 Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell. 
 <i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
 
+Working Papers
+======
+* <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
+
+
 Patents
 ======
 * <b> Su, Jianyu</b>, Kyungtae Han, Rui Guo and Roger Melen. Systems and Methods for Driving Recommendations. US Patent <i>16/689,255</i>, filed Nov 20, 2019.
