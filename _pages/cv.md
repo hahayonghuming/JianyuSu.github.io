@@ -15,9 +15,10 @@ Passionate about Machine Learning and its applications. Experienced in computer 
 
 Education
 ======
-* B.S. in Environmental Engineering, Beijing Institute of Technology, 2015
-* M.E. in Systems Engineering, Univerisity of Virginia, 2016
 * Ph.D. in Systems Engineering, University of Virginia, 2021 (expected)
+* M.E. in Systems Engineering, Univerisity of Virginia, 2016
+* B.S. in Environmental Engineering, Beijing Institute of Technology, 2015
+
 
 Work experience
 ======
