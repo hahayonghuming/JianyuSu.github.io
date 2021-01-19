@@ -13,7 +13,7 @@ redirect_from:
 * My research interests lie in the area of machine learning, particularly in deep learning, reinforcement learning and graph learning, as well as their applications in cyber physical systems such smart cities, smart manufacturing lines.
 
 # Contact Info
-* Email: js9wv@virginia.edu
+* Email: js9wv[at]virginia.edu
 * Cell Phone: 434-284-0324
 * <address>
   Olsson Hall, 151 Engineer's Way,<br /> Charlottesville, VA 22904<br /> United States
