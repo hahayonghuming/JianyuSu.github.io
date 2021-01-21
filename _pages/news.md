@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* (Jan 2021) I officially join Toyota InfoTech Labs, Mountain View, CA. I will working on the connected automated driving project, supervised by principle researcher Dr. Rui Guo.
 * (Nov 2020) [Our paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) is accepted by <i>The 35th AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>) as a regular paper! 
 * (Nov 2020) I will be a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Cooperative Automated Driving project from January 19th.
 * (Nov 2020) My [joint work](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM) with manufacturing expert Jing Huang, a Ph.D. student at UVA, applies [my multi-agent RL algorithm](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) to real-world manufacturing applications and is under review for a journal.
