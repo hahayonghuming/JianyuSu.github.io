@@ -22,13 +22,20 @@ Education
 
 Work experience
 ======
+* Spring 2021: Research Scientist Intern (Cooperative Automated Driving)
+  * Toyota InfoTech Labs, Mountain View, CA
+  * Build high fidelity highway on-ramp simulation based on SUMO
+  * Propose and conduct research on deep-learning based cooperative autonomous driving methods for mixed-traffic
+  * Communicate and work with the patent office to file patent applications
+  * Supervisor: Dr. Rui Guo
+  * Collaborator: Dr. Ziran Wang
 * Summer 2019: Research Scientist Intern (Digital Twins Project)
   * Toyota InfoTech Labs, Mountain View, CA
   * Propose and conduct research in automated driving for connected vehicles
   * Communicate and work with the patent office to file patent applications
   * Supervisor: Dr. Kyungtae Han
 
-* 2017-present: Research Assistant
+* 2017-May 2021: Research Assistant
   * Professor Beling's lab
   * Lead the writing of multiple proposals for external funding. One proposal was supported by UANGEL, Inc., a Korean IoT company, and funded through the Center for Visual and Decision Informatics, an NSF Industry University Cooperative Research Center
   * Collaborate with researchers from Civial Engineering, Mechanical Engineering, and Computer Engineering on Cyber-Physical Systems research
