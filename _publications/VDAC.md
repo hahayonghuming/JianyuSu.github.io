@@ -4,7 +4,8 @@ collection: publications
 permalink: /publications/VDAC
 venue: "The 35th AAAI Conference on Artificial Intelligence (AAAI 2021)"
 date: 2021-02-02
-citation: '<b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. <i>The 35th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.'
+citation: '<b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. 2021. <i>Proceedings of the AAAI Conference on Artificial Intelligence 35(13) 11352-60.
+</i>'
 ---
 
 [Download paper here](https://arxiv.org/abs/2007.12306)
