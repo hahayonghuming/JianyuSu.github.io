@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+* (Jun 2021) I am excited to announce that I am going to join JD.com to conduct research on autonomous driving as well as develop autonomous delivery robots. I will relocate to Beijing, China.
+* (Apr 2021) I successfully defended my doctor dissertation titled by "Learning and Control in Multi-Agent Systems with Applications on Cyber-Physical systems". I am grateful for my committee members' help, especially my advisor Dr. Peter A. Beling.
+* (Feb 2021) I presented my paper "Value-decomposed Multi-Agent Actor-Critics" at AAAI 21.
 * (Jan 2021) I officially join Toyota InfoTech Labs, Mountain View, CA. I will working on the connected automated driving project, supervised by principal researcher Dr. Rui Guo.
 * (Nov 2020) [Our paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) is accepted by <i>The 35th AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>) as a regular paper! 
 * (Nov 2020) I will be a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Cooperative Automated Driving project from January 19th.
