@@ -10,18 +10,19 @@ redirect_from:
 {% include base_path %}
 Summary
 ======
-Passionate about Machine Learning and its applications. Experienced in computer vision, natural language processing and reinforcement learning. Actively involved in writing proposals as well as conducting research. Promote inter-discipline research with fellow doctoral students from different departments as well as researchers from other institutions.
+Passionate about Machine Learning and autonomous driving. Experienced in computer vision, natural language processing and reinforcement learning. Actively involved in writing proposals as well as conducting research. Promote inter-discipline research with fellow doctoral students from different departments as well as researchers from other institutions.
 
 
 Education
 ======
-* Ph.D. in Systems Engineering, University of Virginia, 2021 (expected)
+* Ph.D. in Systems Engineering, University of Virginia, 2021 
 * M.E. in Systems Engineering, Univerisity of Virginia, 2016
 * B.S. in Environmental Engineering, Beijing Institute of Technology, 2015
 
 
 Work experience
 ======
+* July 2021: Expected to join autonomous driving team @ JD.com as a doctoral management trainee
 * Spring 2021: Research Scientist Intern (Cooperative Automated Driving)
   * Toyota InfoTech Labs, Mountain View, CA
   * Build high fidelity highway on-ramp simulation based on SUMO
@@ -43,12 +44,13 @@ Work experience
   
 Skills
 ======
-* Python, Pytorch, TensorFlow, Matlab.
+* Python, C++, Matlab.
+* Pytorch, TensorFlow, Numpy.
 
 Publications
 ======
 * <b>[Value-Decomposition Multi-Agent Actor-Critics](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC)</b> 
-<br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. <i>The 35th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
+<br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. 2021 <i>Proceedings of the AAAI Conference on Artificial Intelligence </i>. <b>AAAI 2021</b>.
 
 * <b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b><br> 
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
