@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianyu Su"
+title                    : "苏健宇(Jianyu Su)"
 title_separator          : "-"
 name                     : &name "Jianyu Su"
 description              : &description "Ph.D. graduated from Univerisity of Virginia, incoming JD.com autonomous driving researcher"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianyu Su"
+  name             : "苏健宇(Jianyu Su)"
   avatar           : "一寸.jpeg"
   bio              : "Ph.D. graduated from Univerisity of Virginia, incoming JD.com autonomous driving researcher"
   location         : "Beijing, China"
