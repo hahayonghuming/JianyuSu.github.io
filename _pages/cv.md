@@ -50,7 +50,7 @@ Skills
 Publications
 ======
 * <b>[Value-Decomposition Multi-Agent Actor-Critics](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC)</b> 
-<br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. 2021 <i>Proceedings of the AAAI Conference on Artificial Intelligence </i>. <b>AAAI 2021</b>.
+<br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. 2021. <i>Proceedings of the AAAI Conference on Artificial Intelligence </i>. <b>AAAI 2021</b>.
 
 * <b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b><br> 
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
