@@ -1,5 +1,5 @@
 ---
-title: "Counterfactual multi-agent reinforcement learning with graph convolution communication"
+title: "Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication"
 collection: publications
 permalink: /publications/CCOMA
 venue: "arXiv"
