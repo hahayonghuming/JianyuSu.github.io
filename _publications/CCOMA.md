@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CCOMA
 venue: "arXiv"
 date: 2020-4-1
-citation: '<b>Jianyu Su</b>, Stephen Adams, Peter A. Beling. <i>arXiv:2004.00470s</i>.'
+citation: '<b>Jianyu Su</b>, Stephen Adams, Peter A. Beling. <i>arXiv:2004.00470</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2004.00470)
