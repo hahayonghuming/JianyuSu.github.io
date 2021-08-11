@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* July 2021: Expected to join autonomous driving team @ JD.com as a doctoral management trainee
+* July 2021: Machine Learning Engineer
+  * Doctoral Management Trainee @ JD.com, Beijing, China
+  * Stage 1: Work in different departments to understand the business model, and the organizational topology of the company
+  * Stage 2: Work for the departments of my interests
 * Spring 2021: Research Scientist Intern (Cooperative Automated Driving)
   * Toyota InfoTech Labs, Mountain View, CA
   * Build high fidelity highway on-ramp simulation based on SUMO
