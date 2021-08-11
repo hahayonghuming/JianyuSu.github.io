@@ -14,6 +14,11 @@ author_profile: true
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
 
 <br>
+<b>[Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication](https://hahayonghuming.github.io/JianyuSu.github.io/publications/CCOMA)</b> <br> 
+<b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
+<i>arXiv:2004.00470</i>.
+
+<br>
 <b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> <br> 
 Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling.
 <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.
