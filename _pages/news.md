@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* (Sep 2021) My patent application, titled by "COOPERATIVE ARTIFICIAL INTELLIGENT ASSISTED DRIVING", is filed with Toyota.
+* (Sep 2021) My patent application, titled by "Cooperative Artificial Intelligent Assisted Driving", is filed with Toyota.
 * (Jun 2021) I am excited to announce that I am going to join <b>JD.com</b> to conduct research on autonomous driving as well as develop autonomous delivery robots. I will relocate to <b>Beijing, China</b>.
 * (Apr 2021) I successfully defended my doctor dissertation titled by "Learning and Control in Multi-Agent Systems with Applications on Cyber-Physical systems". I am grateful for my committee members' help, especially my advisor Dr. Peter A. Beling.
 * (Feb 2021) I presented my paper "Value-decomposed Multi-Agent Actor-Critics" at <b>AAAI 21</b>.
