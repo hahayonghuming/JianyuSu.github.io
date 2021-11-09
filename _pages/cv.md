@@ -66,16 +66,17 @@ Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A.
 Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell. 
 <i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
 
+* <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. Accepted by Expert Systems with Applications (IF 6.95)
+
 ArXiv
 ======
 * <b>[Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication](https://hahayonghuming.github.io/JianyuSu.github.io/publications/CCOMA)</b> <br> 
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
 
-Working Papers
-======
-* <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
-<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
+
+
 
 
 Patents
