@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+* (Nov 2021) Our paper "Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems" gets accepted by a prestigious journal named Expert Systems with Applications, whose impact factor is 6.95 in 2021.
 * (Sep 2021) My patent application, titled by "Cooperative Artificial Intelligent Assisted Driving", is filed with Toyota.
 * (Jun 2021) I am excited to announce that I am going to join <b>JD.com</b> to conduct research on autonomous driving as well as develop autonomous delivery robots. I will relocate to <b>Beijing, China</b>.
 * (Apr 2021) I successfully defended my doctor dissertation titled by "Learning and Control in Multi-Agent Systems with Applications on Cyber-Physical systems". I am grateful for my committee members' help, especially my advisor Dr. Peter A. Beling.
