@@ -67,7 +67,7 @@ Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell.
 <i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
 
 * <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
-<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. Accepted by <i>Expert Systems with Applications</i> (IF 6.95)
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. Accepted by journal <i>Expert Systems with Applications</i> (IF 6.95)
 
 ArXiv
 ======
