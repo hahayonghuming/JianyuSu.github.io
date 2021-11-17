@@ -2,9 +2,9 @@
 title: "Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems"
 collection: publications
 permalink: /publications/MAPM
-venue: "Under Review (Journal)"
-date: 2020-9-20
-citation: '<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Under Review</i>.'
+venue: "Expert Systems With Applications(Journal)"
+date: 2021-11-07
+citation: '<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Accepted by Journal Expert Systems With Applications</i>.'
 ---
 
 ## Abstract
