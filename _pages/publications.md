@@ -14,6 +14,12 @@ author_profile: true
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
 
 <br>
+<b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
+<i>(Journal) Expert Systems With Applications</i>. <b>Accepted 2021</b>.
+
+
+<br>
 <b>[Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication](https://hahayonghuming.github.io/JianyuSu.github.io/publications/CCOMA)</b> <br> 
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
