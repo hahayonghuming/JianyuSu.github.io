@@ -1,10 +1,11 @@
 Look backed at 2021, I am surprised by how my 2021 was unfolded. "Sweet bitter" (not bitter sweet) best summarizes my experiences. That is, I managed to see some positive
-things among a series of unfortunate things.
+things among a series of the unfortunate.
 
 The first and the most important keyword of the year is "racism". I have gone through several incidents of racism since I went to U.S. in 2015. But none of them 
 shook my belief that "All men are created equal" than the incident where a black colleague recklessly attacked asian scholars and labelled us as "over-represented in the academia".
 BLM was just fueled by the tradgic death of George Floyd and of course everyone in the department turned a blind eye on this incident, including the leadership in the department
 at University of Virginia. Initially, I was too innocent to believe that academia is equal for everyone as reseachers, regardless of their color, are only judged by
-the quality of research. And I was later staggered by the reality. Some black sholars claimed that "It is more difficult for a black scholar to succee in academia" and blah blah. 
-I would advise all those people stop whining, and do not live in a cave. Check the news like a white professor fake her black identity to get tenure. Go to google scholar to search your asian
-collegues and see how many top journal papers they need to just be your collegue. 
+the quality of research. And I found myself staggered by the reality later. Some black sholars claimed that "It is more difficult for a black scholar to succee in academia" and blah blah. And I have a few suggestions for these people:
+stop whining, and do not live in a cave. Check out the news like a white professor fake her black identity to get tenure. Or even utilize google scholar to search your asian collegues and see how many top journal papers they need to just be your collegue and if they are "over-represented" because of their color.
+
+The second keyword is "Division". The United states is staggering divided as the conflicts between republicans and democrates excerbate. Most importantly, none of them represent the interests of Asian, leaving us the victim no matter which party wins. Democrates, in the disguise of "equity", rank people by the order: white, black, other, asian. They care too much about "political right" than doing really helpful things. They promote equity in housing. Look at the housing price and tent city in Cali. They advocate equal opportunity for education. Check out the Affirmative actions bill in Cali. It seems to me democrates mistook "privilege" and "equity". Republican of course does not appeal to me at all. They downplay the pandemic and overlook common sense, let alone science. To name a few, many senates believe in some mind-boggling Qanon conspiracy (intentionally or not). The voting machine is rigged by hugo chavez. JFK jr is alive and he is returning to Dallas.  
