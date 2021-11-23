@@ -81,7 +81,7 @@ ArXiv
 
 Patents
 ======
-* <b> Su, Jianyu</b>, Kyungtae Han, Ziran Wang. Cooperative Artificial Intelligent Assisted Driving. US Patent <i>17/475,306</i>, filed Sep 14, 2021.
+* <b> Su, Jianyu</b>, Rui Guo, Ziran Wang. Cooperative Artificial Intelligent Assisted Driving. US Patent <i>17/475,306</i>, filed Sep 14, 2021.
 
 * <b> Su, Jianyu</b>, Kyungtae Han, Rui Guo and Roger Melen. Systems and Methods for Driving Recommendations. US Patent <i>16/689,255</i>, filed Nov 20, 2019.
 
