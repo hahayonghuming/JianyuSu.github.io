@@ -10,6 +10,8 @@ redirect_from:
 # About Me
 ## Current Status
 * I am a machine learning engineer @JD.com (doctoral management trainee). 
+  * I am at the advertisement group @JD.com, working on the construction of the next-gen retrieval engine (Especially the DMP) 
+
 
 ## Education Background
 * I am a Ph.D. who graduated from [Systems Engineering Program](https://engineering.virginia.edu/departments/engineering-systems-and-environment/academics/systems-engineering) at [University of Virginia](https://www.virginia.edu/) in May 2021, advised by [Prof. Peter A. Beling](https://facultydirectory.virginia.edu/faculty/pb3a). ([Download my Resume](https://hahayonghuming.github.io/JianyuSu.github.io/files/JianyuSu_Nov23.pdf)) My research research involves deep learning algorithms, machine learning applications, and autonomous driving. I am passinate about application of AI in our daily life.
