@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 Summary
 ======
-Passionate about Machine Learning and autonomous driving. Experienced in computer vision, natural language processing and reinforcement learning. Actively involved in writing proposals as well as conducting research. Promote inter-discipline research as well as apply cutting-edge tech to solve problems.
-
+Passionate about Machine Learning and its applications. Experienced in computer vision, retrieval systems and reinforcement learning. Actively involved in writing proposals as well as conducting research. Enthusiastic about transforming ideas into practice.
 Education
 ======
 * Ph.D. in Systems Engineering, University of Virginia, 2021 
@@ -23,8 +22,8 @@ Work experience
 ======
 * July 2021: Machine Learning Engineer
   * Doctoral Management Trainee @ JD.com, Beijing, China
-  * Stage 1: Work in different departments to understand the business model, and the organizational topology of the company
-  * Stage 2: Work for the departments of my interests
+  * Position 1 (Nov22-Dec17, 2021): Optimizing the index engine of the retrieval system for JD Advertising 
+  * Position 2 (Dec20-Jan14, 2022): Risk Control machine learning engineer for JD Finance
 * Spring 2021: Research Scientist Intern (Cooperative Automated Driving)
   * Toyota InfoTech Labs, Mountain View, CA
   * Build high fidelity highway on-ramp simulation based on SUMO
