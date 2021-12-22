@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MAPM
 venue: "Expert Systems With Applications(Journal)"
 date: 2021-11-07
-citation: '<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Accepted by Journal Expert Systems With Applications</i>.'
+citation: '<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Journal Expert Systems With Applications (2021)</i>. 10.1016/j.eswa.2021.116323'
 ---
 
 ## Abstract
