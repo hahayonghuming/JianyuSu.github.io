@@ -53,6 +53,10 @@ Publications
 * <b>[Value-Decomposition Multi-Agent Actor-Critics](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC)</b> 
 <br> <b>Jianyu Su</b>, Stephen Adams, and Peter A. Beling. 2021. <i>Proceedings of the AAAI Conference on Artificial Intelligence </i>. <b>AAAI 2021</b>.
 
+* <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Expert Systems with Applications</i> (IF 6.95, SCI Computer Science Q1)
+
+
 * <b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b><br> 
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
@@ -65,8 +69,6 @@ Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A.
 Wenpeng Wang, <b>Jianyu Su</b>, Zackary Hicks, Bradford Campbell. 
 <i>2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design and Implementation</i>. <b>IoTDI</b>.
 
-* <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
-<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. Accepted by journal <i>Expert Systems with Applications</i> (IF 6.95, SCI Computer Science Q1)
 
 ArXiv
 ======
