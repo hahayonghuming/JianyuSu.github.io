@@ -11,6 +11,8 @@ redirect_from:
 Summary
 ======
 Passionate about Machine Learning and its applications. Experienced in computer vision, retrieval systems and reinforcement learning. Actively involved in writing proposals as well as conducting research. Enthusiastic about transforming ideas into practice.
+
+
 Education
 ======
 * Ph.D. in Systems Engineering, University of Virginia, 2021 
