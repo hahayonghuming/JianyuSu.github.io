@@ -7,6 +7,8 @@ date: 2021-11-07
 citation: '<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling. <i>Journal Expert Systems With Applications (2021)</i>. 10.1016/j.eswa.2021.116323'
 ---
 
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0957417421016249)
+
 ## Abstract
 Designing preventive maintenance (PM) policies that ensure smooth and efficient production for large-scale manufacturing systems is non-trivial. 
 Recent model-free reinforcement learning (RL) methods shed lights on how to cope with the non-linearity and stochasticity in such complex systems. 
