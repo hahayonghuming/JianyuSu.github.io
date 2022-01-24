@@ -9,10 +9,10 @@ redirect_from:
 ---
 # About Me
 ## Current Status
-* I am a machine learning engineer @JD.com (doctoral management trainee). 
-  * I works at the advertisement group @JD.com (Business Growth BU, JD.com)
-  * I am interested in various aspects (Matching, Ranking, etc) that involoves display advertising
-  * I mainly focus on optimizing the matching architecture for the advertisement group. Our paper *Toward Personalized User-Ad Retrieval for Display Advertising System at JD.com*, which elaborates on our attempts to improve the matching system, is in process.
+I am a machine learning engineer @JD.com (doctoral management trainee). 
+* I works at the advertisement group @JD.com (Business Growth BU, JD.com)
+* I am interested in various aspects (Matching, Ranking, etc) that involoves display advertising
+* I mainly focus on optimizing the matching architecture for the advertisement group. Our paper *Toward Personalized User-Ad Retrieval for Display Advertising System at JD.com*, which elaborates on our attempts to improve the matching system, is in process.
 
 
 ## Education Background
