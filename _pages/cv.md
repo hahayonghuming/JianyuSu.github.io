@@ -22,10 +22,9 @@ Education
 
 Work experience
 ======
-* July 2021: Machine Learning Engineer
+* July 2021: Machine Learning Engineer @ JD Advertising (Business Growth BU), Beijing, China
   * Doctoral Management Trainee @ JD.com, Beijing, China
-  * Position 1 (Nov22-Dec17, 2021): Optimizing the index engine of the retrieval system for JD Advertising 
-  * Position 2 (Dec20-Jan14, 2022): Risk Control machine learning engineer for JD Finance
+  * Work on the development of the next-gen matching system for JD.com's display advertising system
 * Spring 2021: Research Scientist Intern (Cooperative Automated Driving)
   * Toyota InfoTech Labs, Mountain View, CA
   * Build high fidelity highway on-ramp simulation based on SUMO
@@ -77,6 +76,11 @@ ArXiv
 * <b>[Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication](https://hahayonghuming.github.io/JianyuSu.github.io/publications/CCOMA)</b> <br> 
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
+
+Work in Progress
+======
+* <b> Towards Personalized User-Ad Retrieval for Display Advertising System at JD.com </b> <br>
+<b>Jianyu Su</b>, Sen Li, Liang Feng, Linrong Jin, Zhenfang Guo, Jinghe Hu, Hao Wang.
 
 
 
