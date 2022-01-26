@@ -1,3 +1,11 @@
+---
+title: 'Thoughts about 2021'
+date: 2022-01-26
+permalink: /posts/2022/01/thoughts/
+tags:
+  - 2021
+---
+
 Looking back at 2021, I am surprised by how my 2021 was unfolded. "Sweet bitter" (not bitter sweet) best summarizes my experiences. That is, I managed to see some positive
 aspects among a series of the unfortunate events. I would like to describe my 2021 with 4 keywords.
 
