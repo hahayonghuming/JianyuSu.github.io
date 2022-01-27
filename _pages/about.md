@@ -20,13 +20,13 @@ I am a machine learning engineer @JD.com (doctoral management trainee).
 * I was also a member of UVa [Link Lab](https://engineering.virginia.edu/link-lab), a research center that conducts pioneering research in Cyber-Physical Systems (CPS). I conduct multidisciplinary research with fellow researchers from Computer Engineering, Civil Engineering, and Mechanical Engineering department.
 
 ## Statement
-As a citizen of the world, I am deeply concerned about human right issues all over the world, espically for those groups:
+As a citizen of the planet earth, I am deeply concerned about human right issues all over the world, espically for those groups:
 * Native Americans
 * Native Hawaiians
 * African Americans
 * Asian Americans
 
-I am devoting my personal time to initiate NGO for those groups of people. My first step is to create a NGO, Native American Initiative.
+I am devoting my personal time to promote their human rights. I hope to initiate a NGO, Native American Initiative, to help native Americans.
 
 
 # Contact Info
