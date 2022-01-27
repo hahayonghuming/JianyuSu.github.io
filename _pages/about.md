@@ -25,6 +25,7 @@ As a citizen of the world, I am deeply concerned about human right issues all ov
 * Native Hawaiians
 * African Americans
 * Asian Americans
+
 I am devoting my personal time to initiate NGO for those groups of people. My first step is to create a NGO, Native American Initiative.
 
 
