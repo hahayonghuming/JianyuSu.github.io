@@ -9,14 +9,21 @@ author_profile: true
 <i>The 35th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2021</b>.
 
 <br>
+<b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
+<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
+<i>Expert Systems With Applications 2021</i>.
+
+<br>
+<b>[Towards Personalized User-Ad Retrieval for Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br> 
+<b>Jianyu Su</b>, Sen Li, Liang Feng, Linrong Jin, Zhenfang Guo, Jinghe Hu, Hao Wang.
+<i>Work in progress</i>.
+
+<br>
 <b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b> <br> 
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
 
-<br>
-<b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
-<b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
-<i>Expert Systems With Applications 2021</i>.
+
 
 
 <br>
