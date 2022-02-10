@@ -19,10 +19,10 @@ I am devoting my personal time to promote their human rights. I hope to initiate
 
 # About Me
 ## Current Status
-I am a machine learning engineer @JD.com (doctoral management trainee). 
+I am a machine learning engineer/ Software Architect @JD.com (doctoral management trainee). 
 * I works at the advertisement group @JD.com (Business Growth BU, JD.com)
 * I am interested in various aspects (Matching, Ranking, etc) that involoves display advertising
-* I mainly focus on optimizing the matching architecture for the advertisement group. Our paper *Toward Personalized User-Ad Retrieval for Display Advertising System at JD.com*, which elaborates on our attempts to improve the matching system, is in process.
+* I mainly focus on optimizing the matching architecture for the advertisement group. Our paper *Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com*, which elaborates on our attempts to improve the retrieval system, is under review.
 
 
 ## Education Background
