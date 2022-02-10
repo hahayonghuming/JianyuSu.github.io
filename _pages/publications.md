@@ -14,9 +14,9 @@ author_profile: true
 <i>Expert Systems With Applications 2021</i>.
 
 <br>
-<b>[Towards Personalized User-Ad Retrieval for Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br> 
-<b>Jianyu Su</b>, Sen Li, Liang Feng, Linrong Jin, Zhenfang Guo, Jinghe Hu, Hao Wang.
-<i>Work in progress</i>.
+<b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br> 
+<b>Jianyu Su</b>, et al.
+<i>Under Review</i>.
 
 <br>
 <b>[Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration](https://hahayonghuming.github.io/JianyuSu.github.io/publications/GCN)</b> <br> 
