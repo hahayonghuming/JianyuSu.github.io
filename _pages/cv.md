@@ -80,7 +80,7 @@ ArXiv
 Under Review
 ======
 * <b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
-<b>Jianyu Su</b>, Sen Li, Liang Feng, et al.
+<b>Jianyu Su</b>, et al.
 
 
 
