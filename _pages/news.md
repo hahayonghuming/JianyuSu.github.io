@@ -9,7 +9,6 @@ author_profile: true
 * (Feb 2022) My first-author paper ["Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com"](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP) is under review. This is my first paper as a JDer!
 * (Nov 2021) My first-author paper ["Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems"](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM) gets accepted by a prestigious journal named <i>Expert Systems with Applications</i>, whose impact factor is 6.95 in 2021.
 * (Sep 2021) My patent application, titled by "Cooperative Artificial Intelligent Assisted Driving", is filed with Toyota.
-* (Jun 2021) I am excited to announce that I am going to join <b>JD.com</b> to conduct research on autonomous driving as well as develop autonomous delivery robots. I will relocate to <b>Beijing, China</b>.
 * (Apr 2021) I successfully defended my doctor dissertation titled by "Learning and Control in Multi-Agent Systems with Applications on Cyber-Physical systems". I am grateful for my committee members' help, especially my advisor Dr. Peter A. Beling.
 * (Feb 2021) I presented my paper "Value-decomposed Multi-Agent Actor-Critics" at <b>AAAI 21</b>.
 * (Jan 2021) I officially join Toyota InfoTech Labs, Mountain View, CA. I will working on the connected automated driving project, supervised by principal researcher Dr. Rui Guo.
