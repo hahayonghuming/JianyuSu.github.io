@@ -10,7 +10,7 @@ author_profile: true
 * (Nov 2021) My first-author paper ["Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems"](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM) gets accepted by a prestigious journal named <i>Expert Systems with Applications</i>, whose impact factor is 6.95 in 2021.
 * (Sep 2021) My patent application, titled by "Cooperative Artificial Intelligent Assisted Driving", is filed with Toyota.
 * (Apr 2021) I successfully defended my doctor dissertation titled by "Learning and Control in Multi-Agent Systems with Applications on Cyber-Physical systems". I am grateful for my committee members' help, especially my advisor Dr. Peter A. Beling.
-* (Feb 2021) I presented my paper "Value-decomposed Multi-Agent Actor-Critics" at <b>AAAI 21</b>.
+* (Feb 2021) I presented my paper ["Value-decomposed Multi-Agent Actor-Critics"](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) at <b>AAAI 21</b>.
 * (Jan 2021) I officially join Toyota InfoTech Labs, Mountain View, CA. I will working on the connected automated driving project, supervised by principal researcher Dr. Rui Guo.
 * (Nov 2020) [Our paper](https://hahayonghuming.github.io/JianyuSu.github.io/publications/VDAC) is accepted by <i>The 35th AAAI Conference on Artificial Intelligence</i> (<b>AAAI 2021</b>) as a regular paper! 
 * (Nov 2020) I will be a research scientist intern for [Toyota InfoTech Labs, Mountain View, CA](https://www.linkedin.com/company/toyota-itc), working on the Cooperative Automated Driving project from January 19th.
