@@ -77,10 +77,10 @@ ArXiv
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
 
-Work in Progress
+Under Review
 ======
-* <b>[Towards Personalized User-Ad Retrieval for Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
-<b>Jianyu Su</b>, Sen Li, Liang Feng, Linrong Jin, Zhenfang Guo, Jinghe Hu, Hao Wang.
+* <b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
+<b>Jianyu Su</b>, Sen Li, Liang Feng, et al.
 
 
 
