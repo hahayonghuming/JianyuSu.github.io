@@ -81,7 +81,7 @@ Under Review
 ======
 * <b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
 <b>Jianyu Su</b>, et al.
-* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System integrated control to optimize production line](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
+* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System integrated control to optimize production line](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br>
 Jing Huang, <b>Jianyu Su</b>, Qing Chang.
 
 
