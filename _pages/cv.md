@@ -62,6 +62,9 @@ Publications
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
 
+* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System integrated control to optimize production line yield](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br>
+Jing Huang, <b>Jianyu Su</b>, Qing Chang. <i>Journal of Manufacturing Systems</i> (IF 8.63, SCI Q1)
+
 * <b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> <br> 
 Alan Wang, <b> Jianyu Su</b>, Arsalan Heydarian, Bradford Campbell, and Peter A. Beling.
 <i>The 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</i>. <b>BuildSys 2020</b>.
@@ -77,16 +80,10 @@ ArXiv
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
 
-Under Review
+Work In Progress
 ======
 * <b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br>
 <b>Jianyu Su</b>, et al.
-* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System integrated control to optimize production line](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br>
-Jing Huang, <b>Jianyu Su</b>, Qing Chang.
-
-
-
-
 
 
 Patents
