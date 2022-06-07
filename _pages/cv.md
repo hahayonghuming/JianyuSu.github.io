@@ -62,7 +62,7 @@ Publications
 <b>Jianyu Su</b>, Peter A. Beling, Rui Guo, and Kyungtae Han.
 <i>The 23rd IEEE International Conference on Intelligent Transportation Systems</i>. <b>ITSC 2020</b>.
 
-* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System integrated control to optimize production line yield](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br>
+* <b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System Integrated Control to Optimize Production Line Yield](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br>
 Jing Huang, <b>Jianyu Su</b>, Qing Chang. <i>Journal of Manufacturing Systems</i> (IF 8.63, SCI Q1)
 
 * <b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> <br> 
