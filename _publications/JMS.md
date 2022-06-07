@@ -1,8 +1,8 @@
 ---
-title: "Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System Integrated Control to optimize production line"
+title: "Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System Integrated Control to optimize production line yield"
 collection: publications
 permalink: /publications/JMS
-venue: "Under Review"
-date: 2022-4-10
+venue: "Journal of Manufacturing Systems"
+date: 2022-7
 citation: 'Jing Huang, <b>Jianyu Su</b>, Qing Chang.'
 ---
