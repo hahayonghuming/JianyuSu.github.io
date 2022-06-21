@@ -11,7 +11,7 @@ author_profile: true
 <br>
 <b>[Deep Multi-Agent Reinforcement Learning for Multi-Level Preventive Maintenance in Manufacturing Systems](https://hahayonghuming.github.io/JianyuSu.github.io/publications/MAPM)</b> <br> 
 <b>Jianyu Su</b>, Jing Huang, Stephen Adams, Qing Chang, Peter A. Beling.
-<i>Expert Systems With Applications 2021</i>.
+<i>Expert Systems With Applications 2022</i>.
 
 <br>
 <b>[Smart Index: A Hybrid Approach that Unifies Rule-based and Model-based Retrieval in Display Advertising System at JD.com](https://hahayonghuming.github.io/JianyuSu.github.io/publications/EmbedDMP)</b> <br> 
@@ -25,11 +25,15 @@ author_profile: true
 
 
 
-
 <br>
 <b>[Counterfactual Multi-agent Reinforcement Learning with Graph Convolution Communication](https://hahayonghuming.github.io/JianyuSu.github.io/publications/CCOMA)</b> <br> 
 <b>Jianyu Su</b>, Stephen Adams, Peter A. Beling.
 <i>arXiv:2004.00470</i>.
+
+<br>
+<b>[Graph Neural Network and Multi-Agent Reinforcement Learning for Machine-Process-System Integrated Control to optimize production line yield](https://hahayonghuming.github.io/JianyuSu.github.io/publications/JMS)</b> <br> 
+Jing Huang, <b>Jianyu Su</b>, Qing Chang.
+<i>Journal of Manufacturing Systems 2022</i>.
 
 <br>
 <b>[Is my sensor sleeping, hibernating, or broken? A data-driven monitoring system for indoor energy harvesting sensors](https://hahayonghuming.github.io/JianyuSu.github.io/publications/SensorValid)</b> <br> 
